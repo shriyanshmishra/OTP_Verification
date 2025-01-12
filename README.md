@@ -74,7 +74,6 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 
 ## 📩 **Contact**  
 If you have any questions or feedback, feel free to reach out:  
-- Email: your_email@gmail.com  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-
+- Email: amitsdmishra10@gmail.com 
+- LinkedIn: (https://www.linkedin.com/in/shriyansh-s-mishra-802522202/)
  
