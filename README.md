@@ -63,7 +63,7 @@ This project is a Python-based **OTP (One-Time Password) Verification System** d
 ---
 
 ## 🔗 **GitHub Link**  
-Explore the complete code here: [GitHub Repository Link]((https://github.com/shriyanshmishra/OTP_Verification))  
+Explore the complete code here: [GitHub Repository Link](https://github.com/shriyanshmishra/OTP_Verification)  
 
 ---
 
